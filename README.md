@@ -1,4 +1,5 @@
 # hello-world
-My first GitHub repository.
 
-Let us make a test.
+Hi Humans!
+
+Hubot Here, I am a ACMer.
